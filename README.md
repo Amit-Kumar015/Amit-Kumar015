@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Amit Kumar!<br><br>- 👀 I’m interested in Web development<br>- 🌱 Currently diving deep into **Next.js** as I continue expanding my frontend skills.<br>- 💞️ I’m looking to collaborate on Nextjs project<br>- 📫 How to reach me: You can write me on [LinkedIn](https://www.linkedin.com/in/amit-kumar-0b47ba200/), [Twitter](https://x.com/Amittkumar_), or by [email](mailto:amitk200415@gmail.com).<br>- 💡 I believe in the principles of **Stoicism**—focusing on personal growth, resilience, and rationality in everything I do.<br>- 👨‍💻 Always eager to learn, build, and collaborate on interesting projects.
+👋 Hi, I'm Amit Kumar!<br><br>-  I’m interested in Web development<br>-  Currently diving deep into **Next.js** as I continue expanding my frontend skills.<br>-  I’m looking to collaborate on Nextjs project<br>-  How to reach me: You can write me on [LinkedIn](https://www.linkedin.com/in/amit-kumar-0b47ba200/), [Twitter](https://x.com/Amittkumar_), or by [email](mailto:amitk200415@gmail.com).<br>-  I believe in the principles of **Stoicism**—focusing on personal growth, resilience, and rationality in everything I do.<br>-  Always eager to learn, build, and collaborate on interesting projects.
 
 
 ## 🌐 Socials:
