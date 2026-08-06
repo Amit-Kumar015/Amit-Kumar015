@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Amit Kumar!<br><br>-  I’m interested in Web development<br>-  Currently diving deep into **Next.js** as I continue expanding my frontend skills.<br>-  I’m looking to collaborate on Nextjs project<br>-  How to reach me: You can write me on [LinkedIn](https://www.linkedin.com/in/amit-kumar-0b47ba200/), [Twitter](https://x.com/Amittkumar_), or by [email](mailto:amitk200415@gmail.com).<br>-  I believe in the principles of **Stoicism**—focusing on personal growth, resilience, and rationality in everything I do.<br>-  Always eager to learn, build, and collaborate on interesting projects.
+👋 Hi, I'm Amit Kumar!<br><br>-  I’m interested in Full-Stack Development<br>-  Currently diving deep into **Gen AI** and **Backend System**.<br>-  I’m looking to collaborate on Gen AI project<br>-  How to reach me: You can write me on [LinkedIn](https://www.linkedin.com/in/amit-kumar-0b47ba200/), [Twitter](https://x.com/Amittkumar_), or by [email](mailto:amitk200415@gmail.com).<br>-  Always eager to learn, build, and collaborate on interesting projects.
 
 
 ## 🌐 Socials:
@@ -68,16 +68,16 @@
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 ## 🏆 **GitHub Trophies**
 
-</div>
+</div> -->
 
 <!-- Enhanced Trophy Display -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Amit-Kumar015&theme=onestar&no-frame=false&no-bg=false&margin-w=25&margin-h=20&row=2&column=4&title=MultiLanguage,Commits,PullRequest,Followers,Issues,Repositories,Stars" alt="GitHub Trophies"/>
-</div>
+</div> -->
 
 <br>
 
